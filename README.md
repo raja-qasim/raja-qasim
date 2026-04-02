@@ -1,22 +1,21 @@
-# 👋 Hi, I'm Raja Qasim Javed  
+# 👋 Hi, I'm Raja Qasim Javed
 
 I'm a **beginner Python developer** focused on building strong programming fundamentals and exploring **AI & Machine Learning**.  
-I learn step by step, practice daily, and build small projects to improve my skills.
+I love learning step by step, building small projects, and improving my skills daily.  
 
 ---
 
 ## 💡 About Me
 I'm currently developing my Python skills, exploring AI/ML concepts, and practicing clean coding and problem-solving.  
-I enjoy experimenting with projects, understanding how applications are built, and growing my technical knowledge consistently.
+I enjoy experimenting with projects, understanding how applications are built, and growing my technical knowledge consistently.  
 
 ---
 
 ## 🔥 Current Focus
 - Strengthening **Python fundamentals** 🐍  
-- Practicing problem-solving & logic 💡  
 - Learning **Git & GitHub workflows** 🔧  
 - Exploring **AI/ML basics** 🤖  
-- Building small practical projects 💻  
+- Building small projects to improve practical skills 💻  
 
 ---
 
@@ -31,13 +30,6 @@ I enjoy experimenting with projects, understanding how applications are built, a
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-F7652C?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-![Raja's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajaqasimjaved&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajaqasimjaved&layout=compact&theme=radical)
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=rajaqasimjaved&theme=radical)
 
 ---
 
